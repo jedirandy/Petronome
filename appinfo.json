@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jedirandy@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Petronome",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Petronome",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "17b13317-c0bc-4ff5-8c4d-ea41cd84eb8b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
