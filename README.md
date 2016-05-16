@@ -1,2 +1,5 @@
 # Petronome
-A metronome for Pebble
+A metronome watchapp for Pebble
+
+## License
+MIT
